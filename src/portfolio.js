@@ -90,7 +90,6 @@ const skills = [
   'React',
   'Redux',
   'React Context',
-  'SASS',
   'Material UI',
   'Git',
   'ES6',
